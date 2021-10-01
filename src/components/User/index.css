@@ -1,0 +1,22 @@
+.actions-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.actions-container .edit-icon {
+	margin-right: 10px;
+}
+
+.actions-container .trash-icon {
+	color: red;
+}
+
+.selected-row {
+	background-color: gray;
+	opacity: 0.5;
+}
+
+.not-selectedw {
+	background-color: #fff;
+}
